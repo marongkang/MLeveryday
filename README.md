@@ -6,6 +6,6 @@
 *  建议使用jupyer notebook
 
 
-联系方式(how to contact me)
-电子邮箱email:2498726028@qq.com
-电话tel:+86 18936221623
+联系方式(how to contact me)  
+>电子邮箱(email):2498726028@qq.com  
+>电话(tel):+86 18936221623  
