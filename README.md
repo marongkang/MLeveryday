@@ -3,7 +3,7 @@
 **深度学习入门指南**
 
 *  每日目标不一定为该笔记的内容
-*  建议使用jupyer notebook
+*  建议使用jupyter notebook
 
 
 联系方式(how to contact me)  
